@@ -20,3 +20,4 @@
 4. *Recommendations*: The recommend method generates top-N recommendations (3 items in this example) for a given user (userId = 1).
 5. *Display Recommendations*: Finally, the program prints out the recommended items for the specified user, showing the item ID and the predicted rating.
 
+![Image](https://github.com/user-attachments/assets/7151e96c-b42b-4f61-9039-cf203adc18c6)
